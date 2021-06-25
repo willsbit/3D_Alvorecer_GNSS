@@ -7,4 +7,4 @@ Mapa feito utilizando QGIS + qgis2threejs.
 
 Para ver o webmap interativo, clique [aqui](https://willsbit.github.io/3D_Alvorecer_GNSS/).
 
-O modelo 3D (.gltf) para posterior modelagem e controles de iluminação/textura em softwares como o Blender e/ou impressão 3D também pode ser baixado acima (pasta ./modelo3D).
+O modelo 3D (.gltf) para posterior modelagem, controles de iluminação, textura e/ou impressão 3D também pode ser baixado acima (pasta ./modelo3D).
