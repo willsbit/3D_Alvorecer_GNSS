@@ -9,4 +9,4 @@ Para ver o webmap interativo, clique [aqui](https://willsbit.github.io/3D_Alvore
 ##
 
 O modelo 3D (.gltf) para posterior modelagem, controles de iluminação, textura e/ou impressão 3D também pode ser baixado acima (pasta ./modelo3D).
-Para abrir esse arquivo gltf, recomenda-se o visuzalizador 3D padrão do Windows, ou _software_ como o [Blender](https://www.blender.org/). Também há o aplicativo web [threejs](https://threejs.org/editor/) que é capaz de lidar com arquivos desse tipo.
+Para abrir esse arquivo gltf, recomenda-se o visualizador 3D padrão do Windows, ou _software_ como o [Blender](https://www.blender.org/). Também há o aplicativo web [threejs](https://threejs.org/editor/) que é capaz de lidar com arquivos desse tipo.
